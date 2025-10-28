@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eminr\\Desktop\\C# Dersler\\bilgi_yar\u0131\u015Fmas\u0131_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF884449-0304-44E1-925B-333A3E65C92F}|bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1.csproj|c:\\users\\eminr\\desktop\\c# dersler\\bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF884449-0304-44E1-925B-333A3E65C92F}|bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1.csproj|solutionrelative:bilgi_yar\u0131\u015Fmas\u0131_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF884449-0304-44E1-925B-333A3E65C92F}|bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1.csproj|C:\\Users\\eminr\\Desktop\\C# Dersler\\bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF884449-0304-44E1-925B-333A3E65C92F}|bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1.csproj|solutionrelative:bilgi_yar\u0131\u015Fmas\u0131_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eminr\\Desktop\\C# Dersler\\bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs",
+              "RelativeDocumentMoniker": "bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\eminr\\Desktop\\C# Dersler\\bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs",
+              "RelativeToolTip": "bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAADwv8cAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:12:15.769Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eminr\\Desktop\\C# Dersler\\bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs",
+              "RelativeDocumentMoniker": "bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\eminr\\Desktop\\C# Dersler\\bilgi_yar\u0131\u015Fmas\u0131_1\\bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "bilgi_yar\u0131\u015Fmas\u0131_1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:35:41.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
